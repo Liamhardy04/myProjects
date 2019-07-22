@@ -1,0 +1,2 @@
+ProjectName: myFirstProject
+Author: 
